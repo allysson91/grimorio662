@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.grimorio662.app",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "monolith",
+    "baseName": "grimorio662",
+    "packageName": "com.grimorio662.app",
+    "packageFolder": "com/grimorio662/app",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Nzk4MzAwMDFiOWE3OTViM2NkOWFkMTU2OTg0NTNhNmY0NzcyYjM2YTJhNTZkMTE4NGE2MDdkNzJmNzgxOGIzMjQxOWUxYzBjYzdiOTAxMDcxZjk1MzhkNWU2NWUwYzJlMTQ4OThhOWFkYTg1MWQ2YWExMWM0NDBkM2M4MGU0ZTc=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br"
+    ]
+  }
+}
